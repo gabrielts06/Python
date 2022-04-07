@@ -1,0 +1,5 @@
+#Quero saber quantos ovos tem na bandeja dentro da geladeira:
+#Criei uma lista dentro de outra lista.
+bandeja_ovo = ['ovo','ovo','ovo','ovo','ovo','ovo']
+geladeira = [bandeja_ovo,'guaraná','leite']
+print ('Tem ',bandeja_ovo.count('ovo'),' ovos na geladeira')
