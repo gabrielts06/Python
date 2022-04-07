@@ -1,0 +1,9 @@
+#Preparando a mochila para acampar:
+comida = ['miojo','maça','ovo','pão',]
+ferramentas = ['faca','isqueiro','bussola','mapa']
+
+#caso eu queira saber oq tem para comer:
+print(comida)
+
+#caso eu queira saber oq tem de ferramentas:
+print(ferramentas)
