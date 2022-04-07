@@ -1,0 +1,10 @@
+#Para cada dia de acampamento irei comer 1 item:
+#Criei uma Tupla chamada "dias" onde coloquei os dias da semana.
+dias = ('segunda','terça','quarta','quinta')
+comida = ['miojo','maça','hamburguer','pão',]
+dia_1 = 'Na '+dias[0]+' irei comer '+comida[0]
+dia_2 = 'Na '+dias[1]+' irei comer '+comida[1]
+dia_3 = 'Na '+dias[2]+' irei comer '+comida[2]
+dia_4 = 'Na '+dias[3]+' irei comer '+comida[3]
+total_dias = dia_1 , dia_2 , dia_3 , dia_4
+print (total_dias)
