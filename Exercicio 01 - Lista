@@ -1,9 +1,13 @@
 #Preparando a mochila para acampar:
 comida = ['miojo','maça','ovo','pão',]
 ferramentas = ['faca','isqueiro','bussola','mapa']
+mochila = [comida, ferramentas]
 
-#caso eu queira saber oq tem para comer:
+#caso eu queira saber o que tem para comer:
 print(comida)
 
-#caso eu queira saber oq tem de ferramentas:
+#caso eu queira saber o que tem de ferramentas:
 print(ferramentas)
+
+#caso eu queira saber o que tem na mochila:
+print (mochila)
